@@ -1,7 +1,7 @@
 This is ipsum text added to the file.
-Added 2nd line.
+Added 2nd line. This is line edited to have conlflict with the file
 Added 3rd line.
 Added 4th line.
 Added 5th line.
-Added 6th line.
-Added 7th line.
+Added 6th line.This line too
+Added 7th line. this line to  have conflict with the file.
