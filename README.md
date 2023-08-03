@@ -4,8 +4,9 @@ Sample web for understand git work flows
 ###introduction
 
 2020 AppDirect copyright.
-Added som text from master
-Added another text from master
+
+Added some text for branch2
+Added another text for branch2
 Added some text
 Added another some text
 
